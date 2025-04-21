@@ -2,7 +2,7 @@
 ```python
 class OnMyDestiny:
     def __init__(self):
-        self.name = "Тарас"
+        self.name = "Taras"
         self.role = "Developer"
         self.languages = ["Python", "JavaScript", "Java"]
         self.interests = ["Coding", "Gaming", "Music", "gym"]
