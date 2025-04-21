@@ -5,7 +5,7 @@ class OnMyDestiny:
         self.name = "Taras"
         self.role = "Developer"
         self.languages = ["Python", "JavaScript", "Java"]
-        self.interests = ["Coding", "Gaming", "Music", "gym"]
+        self.interests = ["Coding", "Gaming", "Music", "Gym"]
 ```
 
 ## 🎵 Сейчас слушаю
